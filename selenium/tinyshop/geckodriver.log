@@ -1,0 +1,117 @@
+1508137890868	geckodriver	INFO	Listening on 127.0.0.1:59222
+1508137892873	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1508137893144	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1508137893535	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\S7799\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11748] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11748] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1508137895181	Marionette	INFO	Listening on port 59228
+1508137896073	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508137896114	Marionette	DEBUG	Register listener.js for window 6442450945
+1508137896140	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508137896223	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508137896224	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1508137896476	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://172.18.24.42/tinyshop/"
+1508137896529	Marionette	DEBUG	Received DOM event "pageshow" for "http://172.18.24.42/tinyshop/"
+1508137896627	Marionette	DEBUG	Received DOM event "beforeunload" for "http://172.18.24.42/tinyshop/"
+1508137896711	Marionette	DEBUG	Received DOM event "pagehide" for "http://172.18.24.42/tinyshop/"
+1508137896712	Marionette	DEBUG	Received DOM event "unload" for "http://172.18.24.42/tinyshop/"
+1508137896790	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://172.18.24.42/tinyshop/index.php?con=simple&act=login"
+1508137896796	Marionette	DEBUG	Received DOM event "pageshow" for "http://172.18.24.42/tinyshop/index.php?con=simple&act=login"
+Unable to read VR Path Registry from C:\Users\S7799\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://172.18.24.42/tinyshop/runtime/systemjs/form/form.js, line 147: TypeError: msg is null
+1508137897390	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1508137897599	Marionette	DEBUG	Received DOM event "beforeunload" for "http://172.18.24.42/tinyshop/index.php?con=simple&act=login"
+1508137897738	Marionette	DEBUG	Received DOM event "pagehide" for "http://172.18.24.42/tinyshop/index.php?con=simple&act=login"
+1508137897738	Marionette	DEBUG	Received DOM event "unload" for "http://172.18.24.42/tinyshop/index.php?con=simple&act=login"
+1508137897803	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://172.18.24.42/tinyshop/index.php?con=simple&act=login_act"
+1508137897806	Marionette	DEBUG	Received DOM event "pageshow" for "http://172.18.24.42/tinyshop/index.php?con=simple&act=login_act"
+JavaScript error: http://172.18.24.42/tinyshop/runtime/systemjs/form/form.js, line 147: TypeError: msg is null
+1508137898001	Marionette	DEBUG	Received DOM event "beforeunload" for "http://172.18.24.42/tinyshop/index.php?con=simple&act=login_act"
+1508137898139	Marionette	DEBUG	Received DOM event "pagehide" for "http://172.18.24.42/tinyshop/index.php?con=simple&act=login_act"
+1508137898140	Marionette	DEBUG	Received DOM event "unload" for "http://172.18.24.42/tinyshop/index.php?con=simple&act=login_act"
+1508137898262	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://172.18.24.42/tinyshop/"
+1508137898274	Marionette	DEBUG	Received DOM event "pageshow" for "http://172.18.24.42/tinyshop/"
+1508137898306	Marionette	INFO	New connections will no longer be accepted
+1508138046484	geckodriver	INFO	Listening on 127.0.0.1:59306
+1508138048528	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1508138048776	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1508138049175	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\S7799\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13176] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13176] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1508138050757	Marionette	INFO	Listening on port 59312
+1508138051720	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508138051755	Marionette	DEBUG	Register listener.js for window 6442450945
+1508138051778	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508138051878	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508138051879	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1508138052125	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://172.18.24.42/tinyshop/"
+1508138052196	Marionette	DEBUG	Received DOM event "pageshow" for "http://172.18.24.42/tinyshop/"
+1508138052278	Marionette	DEBUG	Received DOM event "beforeunload" for "http://172.18.24.42/tinyshop/"
+1508138052361	Marionette	DEBUG	Received DOM event "pagehide" for "http://172.18.24.42/tinyshop/"
+1508138052362	Marionette	DEBUG	Received DOM event "unload" for "http://172.18.24.42/tinyshop/"
+1508138052432	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://172.18.24.42/tinyshop/index.php?con=simple&act=login"
+1508138052451	Marionette	DEBUG	Received DOM event "pageshow" for "http://172.18.24.42/tinyshop/index.php?con=simple&act=login"
+Unable to read VR Path Registry from C:\Users\S7799\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://172.18.24.42/tinyshop/runtime/systemjs/form/form.js, line 147: TypeError: msg is null
+1508138052629	Marionette	DEBUG	Received DOM event "beforeunload" for "http://172.18.24.42/tinyshop/index.php?con=simple&act=login"
+1508138052801	Marionette	DEBUG	Received DOM event "pagehide" for "http://172.18.24.42/tinyshop/index.php?con=simple&act=login"
+1508138052801	Marionette	DEBUG	Received DOM event "unload" for "http://172.18.24.42/tinyshop/index.php?con=simple&act=login"
+1508138052866	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://172.18.24.42/tinyshop/index.php?con=simple&act=login_act"
+1508138052890	Marionette	DEBUG	Received DOM event "pageshow" for "http://172.18.24.42/tinyshop/index.php?con=simple&act=login_act"
+JavaScript error: http://172.18.24.42/tinyshop/runtime/systemjs/form/form.js, line 147: TypeError: msg is null
+1508138053581	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1508138053698	Marionette	DEBUG	Received DOM event "beforeunload" for "http://172.18.24.42/tinyshop/index.php?con=simple&act=login_act"
+1508138053901	Marionette	DEBUG	Received DOM event "pagehide" for "http://172.18.24.42/tinyshop/index.php?con=simple&act=login_act"
+1508138053902	Marionette	DEBUG	Received DOM event "unload" for "http://172.18.24.42/tinyshop/index.php?con=simple&act=login_act"
+1508138054006	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://172.18.24.42/tinyshop/"
+1508138054023	Marionette	DEBUG	Received DOM event "pageshow" for "http://172.18.24.42/tinyshop/"
+[Child 11388] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\S7799\AppData\Local\openvr\openvrpaths.vrpath
+1508138067729	geckodriver	INFO	Listening on 127.0.0.1:59395
+1508138069772	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1508138070016	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1508138070413	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\S7799\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8020] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8020] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1508138072140	Marionette	INFO	Listening on port 59401
+1508138072973	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508138073011	Marionette	DEBUG	Register listener.js for window 4294967297
+1508138073032	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508138073151	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508138073151	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1508138073413	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://172.18.24.42/tinyshop/"
+1508138073470	Marionette	DEBUG	Received DOM event "pageshow" for "http://172.18.24.42/tinyshop/"
+1508138073561	Marionette	DEBUG	Received DOM event "beforeunload" for "http://172.18.24.42/tinyshop/"
+1508138073647	Marionette	DEBUG	Received DOM event "pagehide" for "http://172.18.24.42/tinyshop/"
+1508138073648	Marionette	DEBUG	Received DOM event "unload" for "http://172.18.24.42/tinyshop/"
+1508138073726	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://172.18.24.42/tinyshop/index.php?con=simple&act=login"
+1508138073749	Marionette	DEBUG	Received DOM event "pageshow" for "http://172.18.24.42/tinyshop/index.php?con=simple&act=login"
+Unable to read VR Path Registry from C:\Users\S7799\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://172.18.24.42/tinyshop/runtime/systemjs/form/form.js, line 147: TypeError: msg is null
+1508138073927	Marionette	DEBUG	Received DOM event "beforeunload" for "http://172.18.24.42/tinyshop/index.php?con=simple&act=login"
+1508138074073	Marionette	DEBUG	Received DOM event "pagehide" for "http://172.18.24.42/tinyshop/index.php?con=simple&act=login"
+1508138074074	Marionette	DEBUG	Received DOM event "unload" for "http://172.18.24.42/tinyshop/index.php?con=simple&act=login"
+1508138074142	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://172.18.24.42/tinyshop/index.php?con=simple&act=login_act"
+1508138074145	Marionette	DEBUG	Received DOM event "pageshow" for "http://172.18.24.42/tinyshop/index.php?con=simple&act=login_act"
+JavaScript error: http://172.18.24.42/tinyshop/runtime/systemjs/form/form.js, line 147: TypeError: msg is null
+1508138074881	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1508138075013	Marionette	DEBUG	Received DOM event "beforeunload" for "http://172.18.24.42/tinyshop/index.php?con=simple&act=login_act"
+1508138075158	Marionette	DEBUG	Received DOM event "pagehide" for "http://172.18.24.42/tinyshop/index.php?con=simple&act=login_act"
+1508138075158	Marionette	DEBUG	Received DOM event "unload" for "http://172.18.24.42/tinyshop/index.php?con=simple&act=login_act"
+1508138075263	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://172.18.24.42/tinyshop/"
+1508138075276	Marionette	DEBUG	Received DOM event "pageshow" for "http://172.18.24.42/tinyshop/"
+1508138075354	Marionette	DEBUG	Received DOM event "beforeunload" for "http://172.18.24.42/tinyshop/"
+1508138075493	Marionette	DEBUG	Received DOM event "pagehide" for "http://172.18.24.42/tinyshop/"
+1508138075494	Marionette	DEBUG	Received DOM event "unload" for "http://172.18.24.42/tinyshop/"
+1508138075562	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://172.18.24.42/tinyshop/index.php?con=simple&act=login"
+1508138075579	Marionette	DEBUG	Received DOM event "pageshow" for "http://172.18.24.42/tinyshop/index.php?con=simple&act=login"
+1508138075612	Marionette	INFO	New connections will no longer be accepted
+Unable to read VR Path Registry from C:\Users\S7799\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 7280] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
