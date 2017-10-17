@@ -5,7 +5,7 @@ import time
 #web页面翻页 - 1 ：  PAGE-DOWN
 from selenium.webdriver.common.action_chains import ActionChains
 from selenium.webdriver.common.keys import Keys
-import selenium
+
 wd=webdriver.Chrome()
 url="http://172.18.24.42/tinyshop/"
 def open_URL(wd,url): 
