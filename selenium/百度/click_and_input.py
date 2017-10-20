@@ -7,6 +7,7 @@ from selenium.webdriver.common.keys import Keys
 import selenium
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+import time
 #open web page
 def open_URL(wd,url):
     wd.get(url)
@@ -23,6 +24,7 @@ def e_click_by_link(wd,str1):
             print("not search element link = ",str1)
         except Exception as err:
             ActionChains(wd).send_keys(Keys.PAGE_DOWN).perform()
+            time.sleep(1)
             
 
 #find element and click by partial link text
@@ -36,7 +38,7 @@ def e_click_by_partial_link(wd,str1):
             print("not search element partial_link =%s "%(str1))
         except Exception as err:
             ActionChains(wd).send_keys(Keys.PAGE_DOWN).perform()
-            print(err)
+            time.sleep(1)
 
             
 #find element and click by id
@@ -50,6 +52,7 @@ def e_click_by_id(wd,str1):
             print("not search element id = %s"%(str1))
         except Exception as err:
             ActionChains(wd).send_keys(Keys.PAGE_DOWN).perform()
+            time.sleep(1)
 
             
 #find element and click by xpath
@@ -63,6 +66,7 @@ def e_click_by_xpath(wd,str1):
             print("not search element xpath = ",str1)
         except Exception as err:
             ActionChains(wd).send_keys(Keys.PAGE_DOWN).perform()
+            time.sleep(1)
 
             
 #find element and click by css
@@ -76,6 +80,7 @@ def e_click_by_css(wd,str1):
             print("not search element css = ",str1)
         except Exception as err:
             ActionChains(wd).send_keys(Keys.PAGE_DOWN).perform()
+            time.sleep(1)
 
             
 #exit brower but sleep 10s before it
@@ -95,6 +100,7 @@ def input_by_id(wd,id1,str1):
             print("not search element id = ",id1)
         except Exception as err:
             ActionChains(wd).send_keys(Keys.PAGE_DOWN).perform()
+            time.sleep(1)
 
 
 #find element and input by css
@@ -108,7 +114,8 @@ def input_by_css(wd,css,str1):
         except selenium.common.exceptions.TimeoutException :
             print("not search element css = ",css)
         except Exception as err:
-            ActionChains(wd).send_keys(Keys.PAGE_DOWN).perform() 
+            ActionChains(wd).send_keys(Keys.PAGE_DOWN).perform()
+            time.sleep(1)
 
 
 #find element and input by xpath
@@ -122,7 +129,8 @@ def input_by_xpath(wd,xpath,str1):
         except selenium.common.exceptions.TimeoutException :
             print("not search element xpat = ",xpath)
         except Exception as err:
-            ActionChains(wd).send_keys(Keys.PAGE_DOWN).perform()   
+            ActionChains(wd).send_keys(Keys.PAGE_DOWN).perform()
+            time.sleep(1)
 
 
 #judge element is exist

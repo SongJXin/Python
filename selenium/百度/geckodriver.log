@@ -3007,3 +3007,541 @@ JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E7%A6
 Unable to read VR Path Registry from C:\Users\S7799\AppData\Local\openvr\openvrpaths.vrpath
 [Child 10092] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
 [Child 10092] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1508478057370	geckodriver	INFO	Listening on 127.0.0.1:61663
+1508478059374	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1508478059632	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1508478060047	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\S7799\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10592] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10592] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1508478061881	Marionette	INFO	Listening on port 61669
+1508478062539	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508478062590	Marionette	DEBUG	Register listener.js for window 6442450945
+1508478062674	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508478063036	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508478063036	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+Unable to read VR Path Registry from C:\Users\S7799\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1508478063384	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1508478063479	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E7%A6%8F%E5%93%A5%E6%9D%82%E8%AE%B0%20CSDN&json=1&p=3&sid=1450_21109_17001_22074&req=2&csor=9&pwd=%E7%A6%8F%E5%93%A5%E6%9D%82%E8%AE%B0%20CSD&cb=jQuery110208272517501133216_1508478063272&_=1508478063282, line 1: TypeError: jQuery110208272517501133216_1508478063272 is not a function
+1508478064315	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1508478064886	Marionette	DEBUG	Register listener.js for window 6442450949
+1508478065233	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: resource:///modules/FormSubmitObserver.jsm, line 223: TypeError: this._mm is null
+1508478069599	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+Unable to read VR Path Registry from C:\Users\S7799\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 4192] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1508478143264	geckodriver	INFO	Listening on 127.0.0.1:61835
+1508478145291	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1508478145515	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1508478145922	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\S7799\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6388] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6388] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1508478147572	Marionette	INFO	Listening on port 61841
+1508478148440	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508478148476	Marionette	DEBUG	Register listener.js for window 4294967297
+1508478148541	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508478148736	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508478148736	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+Unable to read VR Path Registry from C:\Users\S7799\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1508478149184	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1508478149305	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E7%A6%8F%E5%93%A5%E6%9D%82%E8%AE%B0%20CSDN&json=1&p=3&sid=1440_24557_21124_17001_24023_20929&req=2&csor=9&pwd=%E7%A6%8F%E5%93%A5%E6%9D%82%E8%AE%B0%20CSD&cb=jQuery110202040341240107808_1508478148932&_=1508478148942, line 1: TypeError: jQuery110202040341240107808_1508478148932 is not a function
+1508478150140	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1508478150222	Marionette	DEBUG	Register listener.js for window 4294967301
+Unable to read VR Path Registry from C:\Users\S7799\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8412] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1508478153582	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+JavaScript error: resource:///modules/FormSubmitObserver.jsm, line 223: TypeError: this._mm is null
+Unable to read VR Path Registry from C:\Users\S7799\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 4076] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12800] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1508478167967	geckodriver	INFO	Listening on 127.0.0.1:61984
+1508478170026	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1508478170279	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1508478170684	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\S7799\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6928] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6928] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1508478172344	Marionette	INFO	Listening on port 61990
+1508478173193	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508478173235	Marionette	DEBUG	Register listener.js for window 6442450945
+1508478173286	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508478173488	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508478173488	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+Unable to read VR Path Registry from C:\Users\S7799\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1508478173726	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1508478173774	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E7%A6%8F&json=1&p=3&sid=1469_21085_24023&req=2&csor=1&cb=jQuery110208137022355092028_1508478173609&_=1508478173611, line 1: TypeError: jQuery110208137022355092028_1508478173609 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E7%A6%8F%E5%93%A5%E6%9D%82&json=1&p=3&sid=1469_21085_24023&req=2&csor=3&pwd=%E7%A6%8F%E5%93%A5&cb=jQuery110208137022355092028_1508478173609&_=1508478173613, line 1: TypeError: jQuery110208137022355092028_1508478173609 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E7%A6%8F%E5%93%A5%E6%9D%82%E8%AE%B0%20C&json=1&p=3&sid=1469_21085_24023&req=2&csor=6&pwd=%E7%A6%8F%E5%93%A5%E6%9D%82%E8%AE%B0%20&cb=jQuery110208137022355092028_1508478173609&_=1508478173616, line 1: TypeError: jQuery110208137022355092028_1508478173609 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E7%A6%8F%E5%93%A5%E6%9D%82%E8%AE%B0&json=1&p=3&sid=1469_21085_24023&req=2&csor=4&pwd=%E7%A6%8F%E5%93%A5%E6%9D%82&cb=jQuery110208137022355092028_1508478173609&_=1508478173614, line 1: TypeError: jQuery110208137022355092028_1508478173609 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E7%A6%8F%E5%93%A5%E6%9D%82%E8%AE%B0%20&json=1&p=3&sid=1469_21085_24023&req=2&csor=5&pwd=%E7%A6%8F%E5%93%A5%E6%9D%82%E8%AE%B0&cb=jQuery110208137022355092028_1508478173609&_=1508478173615, line 1: TypeError: jQuery110208137022355092028_1508478173609 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E7%A6%8F%E5%93%A5&json=1&p=3&sid=1469_21085_24023&req=2&csor=2&pwd=%E7%A6%8F&cb=jQuery110208137022355092028_1508478173609&_=1508478173612, line 1: TypeError: jQuery110208137022355092028_1508478173609 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E7%A6%8F%E5%93%A5%E6%9D%82%E8%AE%B0%20CS&json=1&p=3&sid=1469_21085_24023&req=2&csor=7&pwd=%E7%A6%8F%E5%93%A5%E6%9D%82%E8%AE%B0%20C&cb=jQuery110208137022355092028_1508478173609&_=1508478173617, line 1: TypeError: jQuery110208137022355092028_1508478173609 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E7%A6%8F%E5%93%A5%E6%9D%82%E8%AE%B0%20CSD&json=1&p=3&sid=1469_21085_24023&req=2&csor=8&pwd=%E7%A6%8F%E5%93%A5%E6%9D%82%E8%AE%B0%20CS&cb=jQuery110208137022355092028_1508478173609&_=1508478173618, line 1: TypeError: jQuery110208137022355092028_1508478173609 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E7%A6%8F%E5%93%A5%E6%9D%82%E8%AE%B0%20CSDN&json=1&p=3&sid=1469_21085_24023&req=2&csor=9&pwd=%E7%A6%8F%E5%93%A5%E6%9D%82%E8%AE%B0%20CSD&cb=jQuery110208137022355092028_1508478173609&_=1508478173619, line 1: TypeError: jQuery110208137022355092028_1508478173609 is not a function
+1508478174231	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1508478174426	Marionette	DEBUG	Register listener.js for window 6442450949
+1508478178614	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 7188] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\S7799\AppData\Local\openvr\openvrpaths.vrpath
+1508478186692	geckodriver	INFO	Listening on 127.0.0.1:62138
+1508478188689	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1508478188933	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1508478189329	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\S7799\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10288] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10288] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1508478191037	Marionette	INFO	Listening on port 62144
+1508478191876	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508478191922	Marionette	DEBUG	Register listener.js for window 6442450945
+1508478191990	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508478192165	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508478192166	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1508478192413	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1508478192512	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+Unable to read VR Path Registry from C:\Users\S7799\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E7%A6%8F%E5%93%A5%E6%9D%82%E8%AE%B0%20CSD&json=1&p=3&sid=1464_24558_21100_18560_22072&req=2&csor=8&pwd=%E7%A6%8F%E5%93%A5%E6%9D%82%E8%AE%B0%20CS&cb=jQuery110208320004532440789_1508478192294&_=1508478192303, line 1: TypeError: jQuery110208320004532440789_1508478192294 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E7%A6%8F%E5%93%A5%E6%9D%82%E8%AE%B0%20CSDN&json=1&p=3&sid=1464_24558_21100_18560_22072&req=2&csor=9&pwd=%E7%A6%8F%E5%93%A5%E6%9D%82%E8%AE%B0%20CSD&cb=jQuery110208320004532440789_1508478192294&_=1508478192304, line 1: TypeError: jQuery110208320004532440789_1508478192294 is not a function
+1508478193023	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1508478193266	Marionette	DEBUG	Register listener.js for window 6442450949
+Unable to read VR Path Registry from C:\Users\S7799\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11872] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11872] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1508478197437	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\S7799\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 11324] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\S7799\AppData\Local\openvr\openvrpaths.vrpath
+1508478285135	geckodriver	INFO	Listening on 127.0.0.1:62293
+1508478287172	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1508478287411	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1508478287833	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\S7799\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8076] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8076] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1508478289507	Marionette	INFO	Listening on port 62299
+1508478290359	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508478290396	Marionette	DEBUG	Register listener.js for window 4294967297
+1508478290464	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508478290644	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508478290644	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+Unable to read VR Path Registry from C:\Users\S7799\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1508478290965	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1508478291012	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E7%A6%8F%E5%93%A5%E6%9D%82%E8%AE%B0%20CSD&json=1&p=3&sid=1455_21096_24023_20928&req=2&csor=8&pwd=%E7%A6%8F%E5%93%A5%E6%9D%82%E8%AE%B0%20CS&cb=jQuery110204718939732015539_1508478290865&_=1508478290874, line 1: TypeError: jQuery110204718939732015539_1508478290865 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E7%A6%8F%E5%93%A5%E6%9D%82%E8%AE%B0%20C&json=1&p=3&sid=1455_21096_24023_20928&req=2&csor=6&pwd=%E7%A6%8F%E5%93%A5%E6%9D%82%E8%AE%B0%20&cb=jQuery110204718939732015539_1508478290865&_=1508478290872, line 1: TypeError: jQuery110204718939732015539_1508478290865 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E7%A6%8F%E5%93%A5%E6%9D%82%E8%AE%B0%20CSDN&json=1&p=3&sid=1455_21096_24023_20928&req=2&csor=9&pwd=%E7%A6%8F%E5%93%A5%E6%9D%82%E8%AE%B0%20CSD&cb=jQuery110204718939732015539_1508478290865&_=1508478290875, line 1: TypeError: jQuery110204718939732015539_1508478290865 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E7%A6%8F%E5%93%A5%E6%9D%82%E8%AE%B0%20CS&json=1&p=3&sid=1455_21096_24023_20928&req=2&csor=7&pwd=%E7%A6%8F%E5%93%A5%E6%9D%82%E8%AE%B0%20C&cb=jQuery110204718939732015539_1508478290865&_=1508478290873, line 1: TypeError: jQuery110204718939732015539_1508478290865 is not a function
+1508478291493	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1508478292105	Marionette	DEBUG	Register listener.js for window 4294967301
+Unable to read VR Path Registry from C:\Users\S7799\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6492] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6492] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1508478294079	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+JavaScript error: resource:///modules/FormSubmitObserver.jsm, line 223: TypeError: this._mm is null
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\S7799\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 14156] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\S7799\AppData\Local\openvr\openvrpaths.vrpath
+1508478300887	geckodriver	INFO	Listening on 127.0.0.1:62431
+1508478302930	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1508478303170	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1508478303575	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\S7799\AppData\Local\openvr\openvrpaths.vrpath
+[Child 5144] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5144] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1508478305294	Marionette	INFO	Listening on port 62437
+1508478306106	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508478306154	Marionette	DEBUG	Register listener.js for window 6442450945
+1508478306223	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508478306437	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508478306438	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+Unable to read VR Path Registry from C:\Users\S7799\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1508478306654	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1508478306736	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E7%A6%8F%E5%93%A5%E6%9D%82%E8%AE%B0&json=1&p=3&sid=1463_21119_24023_20930&req=2&csor=4&pwd=%E7%A6%8F%E5%93%A5%E6%9D%82&cb=jQuery1102010331296143952617_1508478306556&_=1508478306561, line 1: TypeError: jQuery1102010331296143952617_1508478306556 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E7%A6%8F%E5%93%A5%E6%9D%82%E8%AE%B0%20&json=1&p=3&sid=1463_21119_24023_20930&req=2&csor=5&pwd=%E7%A6%8F%E5%93%A5%E6%9D%82%E8%AE%B0&cb=jQuery1102010331296143952617_1508478306556&_=1508478306562, line 1: TypeError: jQuery1102010331296143952617_1508478306556 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E7%A6%8F%E5%93%A5%E6%9D%82%E8%AE%B0%20CSD&json=1&p=3&sid=1463_21119_24023_20930&req=2&csor=8&pwd=%E7%A6%8F%E5%93%A5%E6%9D%82%E8%AE%B0%20CS&cb=jQuery1102010331296143952617_1508478306556&_=1508478306565, line 1: TypeError: jQuery1102010331296143952617_1508478306556 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E7%A6%8F%E5%93%A5%E6%9D%82%E8%AE%B0%20C&json=1&p=3&sid=1463_21119_24023_20930&req=2&csor=6&pwd=%E7%A6%8F%E5%93%A5%E6%9D%82%E8%AE%B0%20&cb=jQuery1102010331296143952617_1508478306556&_=1508478306563, line 1: TypeError: jQuery1102010331296143952617_1508478306556 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E7%A6%8F%E5%93%A5%E6%9D%82%E8%AE%B0%20CS&json=1&p=3&sid=1463_21119_24023_20930&req=2&csor=7&pwd=%E7%A6%8F%E5%93%A5%E6%9D%82%E8%AE%B0%20C&cb=jQuery1102010331296143952617_1508478306556&_=1508478306564, line 1: TypeError: jQuery1102010331296143952617_1508478306556 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E7%A6%8F%E5%93%A5%E6%9D%82%E8%AE%B0%20CSDN&json=1&p=3&sid=1463_21119_24023_20930&req=2&csor=9&pwd=%E7%A6%8F%E5%93%A5%E6%9D%82%E8%AE%B0%20CSD&cb=jQuery1102010331296143952617_1508478306556&_=1508478306566, line 1: TypeError: jQuery1102010331296143952617_1508478306556 is not a function
+1508478307193	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1508478307839	Marionette	DEBUG	Register listener.js for window 6442450949
+Unable to read VR Path Registry from C:\Users\S7799\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+[Parent 8080] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8416] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8416] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\S7799\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 3748] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1508478343936	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\S7799\AppData\Local\openvr\openvrpaths.vrpath
+[Child 2348] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2348] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1508478345646	Marionette	INFO	Listening on port 62588
+1508478346394	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508478346435	Marionette	DEBUG	Register listener.js for window 6442450945
+1508478346502	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508478346718	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508478346718	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+Unable to read VR Path Registry from C:\Users\S7799\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1508478346967	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1508478347026	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E7%A6%8F%E5%93%A5%E6%9D%82%E8%AE%B0%20C&json=1&p=3&sid=1463_18194_21088_18559_22157&req=2&csor=6&pwd=%E7%A6%8F%E5%93%A5%E6%9D%82%E8%AE%B0%20&cb=jQuery110200215831605030542_1508478346850&_=1508478346857, line 1: TypeError: jQuery110200215831605030542_1508478346850 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E7%A6%8F%E5%93%A5%E6%9D%82%E8%AE%B0&json=1&p=3&sid=1463_18194_21088_18559_22157&req=2&csor=4&pwd=%E7%A6%8F%E5%93%A5%E6%9D%82&cb=jQuery110200215831605030542_1508478346850&_=1508478346855, line 1: TypeError: jQuery110200215831605030542_1508478346850 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E7%A6%8F%E5%93%A5%E6%9D%82%E8%AE%B0%20&json=1&p=3&sid=1463_18194_21088_18559_22157&req=2&csor=5&pwd=%E7%A6%8F%E5%93%A5%E6%9D%82%E8%AE%B0&cb=jQuery110200215831605030542_1508478346850&_=1508478346856, line 1: TypeError: jQuery110200215831605030542_1508478346850 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E7%A6%8F%E5%93%A5%E6%9D%82%E8%AE%B0%20CSD&json=1&p=3&sid=1463_18194_21088_18559_22157&req=2&csor=8&pwd=%E7%A6%8F%E5%93%A5%E6%9D%82%E8%AE%B0%20CS&cb=jQuery110200215831605030542_1508478346850&_=1508478346859, line 1: TypeError: jQuery110200215831605030542_1508478346850 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E7%A6%8F%E5%93%A5%E6%9D%82%E8%AE%B0%20CSDN&json=1&p=3&sid=1463_18194_21088_18559_22157&req=2&csor=9&pwd=%E7%A6%8F%E5%93%A5%E6%9D%82%E8%AE%B0%20CSD&cb=jQuery110200215831605030542_1508478346850&_=1508478346860, line 1: TypeError: jQuery110200215831605030542_1508478346850 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E7%A6%8F%E5%93%A5%E6%9D%82%E8%AE%B0%20CS&json=1&p=3&sid=1463_18194_21088_18559_22157&req=2&csor=7&pwd=%E7%A6%8F%E5%93%A5%E6%9D%82%E8%AE%B0%20C&cb=jQuery110200215831605030542_1508478346850&_=1508478346858, line 1: TypeError: jQuery110200215831605030542_1508478346850 is not a function
+1508478347545	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1508478348158	Marionette	DEBUG	Register listener.js for window 6442450949
+Unable to read VR Path Registry from C:\Users\S7799\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1508478457745	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\S7799\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 4248] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\S7799\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13468] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13468] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1508478459387	Marionette	INFO	Listening on port 62764
+1508478460247	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508478460282	Marionette	DEBUG	Register listener.js for window 6442450945
+1508478460354	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508478460743	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508478460744	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+Unable to read VR Path Registry from C:\Users\S7799\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1508478461061	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1508478461113	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E7%A6%8F%E5%93%A5%E6%9D%82%E8%AE%B0&json=1&p=3&sid=1445_24565_21127_22159&req=2&csor=4&pwd=%E7%A6%8F%E5%93%A5%E6%9D%82&cb=jQuery1102009588437419712681_1508478460957&_=1508478460962, line 1: TypeError: jQuery1102009588437419712681_1508478460957 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E7%A6%8F%E5%93%A5%E6%9D%82%E8%AE%B0%20CS&json=1&p=3&sid=1445_24565_21127_22159&req=2&csor=7&pwd=%E7%A6%8F%E5%93%A5%E6%9D%82%E8%AE%B0%20C&cb=jQuery1102009588437419712681_1508478460957&_=1508478460965, line 1: TypeError: jQuery1102009588437419712681_1508478460957 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E7%A6%8F%E5%93%A5%E6%9D%82%E8%AE%B0%20CSD&json=1&p=3&sid=1445_24565_21127_22159&req=2&csor=8&pwd=%E7%A6%8F%E5%93%A5%E6%9D%82%E8%AE%B0%20CS&cb=jQuery1102009588437419712681_1508478460957&_=1508478460966, line 1: TypeError: jQuery1102009588437419712681_1508478460957 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E7%A6%8F%E5%93%A5%E6%9D%82%E8%AE%B0%20&json=1&p=3&sid=1445_24565_21127_22159&req=2&csor=5&pwd=%E7%A6%8F%E5%93%A5%E6%9D%82%E8%AE%B0&cb=jQuery1102009588437419712681_1508478460957&_=1508478460963, line 1: TypeError: jQuery1102009588437419712681_1508478460957 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E7%A6%8F%E5%93%A5%E6%9D%82%E8%AE%B0%20C&json=1&p=3&sid=1445_24565_21127_22159&req=2&csor=6&pwd=%E7%A6%8F%E5%93%A5%E6%9D%82%E8%AE%B0%20&cb=jQuery1102009588437419712681_1508478460957&_=1508478460964, line 1: TypeError: jQuery1102009588437419712681_1508478460957 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E7%A6%8F%E5%93%A5%E6%9D%82%E8%AE%B0%20CSDN&json=1&p=3&sid=1445_24565_21127_22159&req=2&csor=9&pwd=%E7%A6%8F%E5%93%A5%E6%9D%82%E8%AE%B0%20CSD&cb=jQuery1102009588437419712681_1508478460957&_=1508478460967, line 1: TypeError: jQuery1102009588437419712681_1508478460957 is not a function
+1508478461583	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1508478462197	Marionette	DEBUG	Register listener.js for window 6442450949
+Unable to read VR Path Registry from C:\Users\S7799\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10692] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1508478466040	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 5776] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1508478554022	geckodriver	INFO	Listening on 127.0.0.1:62966
+1508478556064	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1508478556296	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1508478556693	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\S7799\AppData\Local\openvr\openvrpaths.vrpath
+[Child 14164] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14164] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1508478558397	Marionette	INFO	Listening on port 62972
+1508478559229	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508478559267	Marionette	DEBUG	Register listener.js for window 4294967297
+1508478559318	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508478559661	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508478559662	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+Unable to read VR Path Registry from C:\Users\S7799\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1508478561451	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1508478561524	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E7%A6%8F%E5%93%A5%E6%9D%82%E8%AE%B0%20CSDN&json=1&p=3&sid=1445_21111_22072&req=2&csor=9&pwd=%E7%A6%8F%E5%93%A5%E6%9D%82%E8%AE%B0%20CSD&cb=jQuery110205774465344912084_1508478559913&_=1508478559923, line 1: TypeError: jQuery110205774465344912084_1508478559913 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E7%A6%8F%E5%93%A5%E6%9D%82%E8%AE%B0%20CS&json=1&p=3&sid=1445_21111_22072&req=2&csor=7&pwd=%E7%A6%8F%E5%93%A5%E6%9D%82%E8%AE%B0%20C&cb=jQuery110205774465344912084_1508478559913&_=1508478559921, line 1: TypeError: jQuery110205774465344912084_1508478559913 is not a function
+1508478561990	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1508478562226	Marionette	DEBUG	Register listener.js for window 4294967301
+Unable to read VR Path Registry from C:\Users\S7799\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6560] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1508478565431	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+Unable to read VR Path Registry from C:\Users\S7799\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 8508] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3852] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1508478588315	geckodriver	INFO	Listening on 127.0.0.1:63106
+1508478590305	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1508478590550	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1508478590960	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\S7799\AppData\Local\openvr\openvrpaths.vrpath
+[Child 4976] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4976] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1508478592540	Marionette	INFO	Listening on port 63112
+1508478593500	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508478593542	Marionette	DEBUG	Register listener.js for window 6442450945
+1508478593614	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508478593804	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508478593804	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+Unable to read VR Path Registry from C:\Users\S7799\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1508478594032	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1508478594076	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E7%A6%8F%E5%93%A5%E6%9D%82&json=1&p=3&sid=1422_21102_24023_22158&req=2&csor=3&pwd=%E7%A6%8F%E5%93%A5&cb=jQuery110203098464467503492_1508478593929&_=1508478593933, line 1: TypeError: jQuery110203098464467503492_1508478593929 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E7%A6%8F%E5%93%A5%E6%9D%82%E8%AE%B0&json=1&p=3&sid=1422_21102_24023_22158&req=2&csor=4&pwd=%E7%A6%8F%E5%93%A5%E6%9D%82&cb=jQuery110203098464467503492_1508478593929&_=1508478593934, line 1: TypeError: jQuery110203098464467503492_1508478593929 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E7%A6%8F%E5%93%A5%E6%9D%82%E8%AE%B0%20CS&json=1&p=3&sid=1422_21102_24023_22158&req=2&csor=7&pwd=%E7%A6%8F%E5%93%A5%E6%9D%82%E8%AE%B0%20C&cb=jQuery110203098464467503492_1508478593929&_=1508478593937, line 1: TypeError: jQuery110203098464467503492_1508478593929 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E7%A6%8F%E5%93%A5%E6%9D%82%E8%AE%B0%20&json=1&p=3&sid=1422_21102_24023_22158&req=2&csor=5&pwd=%E7%A6%8F%E5%93%A5%E6%9D%82%E8%AE%B0&cb=jQuery110203098464467503492_1508478593929&_=1508478593935, line 1: TypeError: jQuery110203098464467503492_1508478593929 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E7%A6%8F%E5%93%A5%E6%9D%82%E8%AE%B0%20CSD&json=1&p=3&sid=1422_21102_24023_22158&req=2&csor=8&pwd=%E7%A6%8F%E5%93%A5%E6%9D%82%E8%AE%B0%20CS&cb=jQuery110203098464467503492_1508478593929&_=1508478593938, line 1: TypeError: jQuery110203098464467503492_1508478593929 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E7%A6%8F%E5%93%A5%E6%9D%82%E8%AE%B0%20CSDN&json=1&p=3&sid=1422_21102_24023_22158&req=2&csor=9&pwd=%E7%A6%8F%E5%93%A5%E6%9D%82%E8%AE%B0%20CSD&cb=jQuery110203098464467503492_1508478593929&_=1508478593939, line 1: TypeError: jQuery110203098464467503492_1508478593929 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E7%A6%8F%E5%93%A5%E6%9D%82%E8%AE%B0%20C&json=1&p=3&sid=1422_21102_24023_22158&req=2&csor=6&pwd=%E7%A6%8F%E5%93%A5%E6%9D%82%E8%AE%B0%20&cb=jQuery110203098464467503492_1508478593929&_=1508478593936, line 1: TypeError: jQuery110203098464467503492_1508478593929 is not a function
+1508478594611	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1508478594695	Marionette	DEBUG	Register listener.js for window 6442450949
+JavaScript warning: http://pos.baidu.com/s?hei=250&wid=250&di=u3031286&ltu=http%3A%2F%2Fblog.csdn.net%2Fotianye%2F&pcs=1457x772&dis=0&chi=1&cce=true&dri=1&cec=UTF-8&dtm=HTML_POST&cja=false&par=1474x864&ccd=24&exps=111000&tpr=1508478595655&ari=2&pis=-1x-1&pss=1457x3250&drs=1&cfv=0&tcn=1508478596&cdo=-1&ti=%E7%A6%8F%E5%93%A5%E6%9D%82%E8%AE%B0%EF%BC%8C%E8%BD%AF%E4%BB%B6%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F%E4%B8%AD%E7%9A%84%E6%94%BB%E9%98%B2%E5%8D%9A%E5%BC%88%20-%20CSDN%E5%8D%9A%E5%AE%A2&ant=0&ps=2877x100&psr=1536x864&tlm=1508478595&col=zh-CN&cmi=0&cpl=0&ltr=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3DwPQYmQJuM3BSx06knrBfZy5GREVmRj7-3VghmtjAUpmUDemPhqCc4cDQU3Y_0XxM%26wd%3D%26eqid%3Dede78ad40000620c0000000259e98e83&dc=2&dai=3, line 83: unreachable code after return statement
+JavaScript warning: http://pos.baidu.com/s?hei=250&wid=250&di=u3031286&ltu=http%3A%2F%2Fblog.csdn.net%2Fotianye%2F&pcs=1457x772&dis=0&chi=1&cce=true&dri=1&cec=UTF-8&dtm=HTML_POST&cja=false&par=1474x864&ccd=24&exps=111000&tpr=1508478595655&ari=2&pis=-1x-1&pss=1457x3250&drs=1&cfv=0&tcn=1508478596&cdo=-1&ti=%E7%A6%8F%E5%93%A5%E6%9D%82%E8%AE%B0%EF%BC%8C%E8%BD%AF%E4%BB%B6%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F%E4%B8%AD%E7%9A%84%E6%94%BB%E9%98%B2%E5%8D%9A%E5%BC%88%20-%20CSDN%E5%8D%9A%E5%AE%A2&ant=0&ps=2877x100&psr=1536x864&tlm=1508478595&col=zh-CN&cmi=0&cpl=0&ltr=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3DwPQYmQJuM3BSx06knrBfZy5GREVmRj7-3VghmtjAUpmUDemPhqCc4cDQU3Y_0XxM%26wd%3D%26eqid%3Dede78ad40000620c0000000259e98e83&dc=2&dai=3, line 83: unreachable code after return statement
+Unable to read VR Path Registry from C:\Users\S7799\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 8732] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1600] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1600] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1508478650573	geckodriver	INFO	Listening on 127.0.0.1:63260
+1508478652600	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1508478652839	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1508478653250	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\S7799\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 14116] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\S7799\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7392] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7392] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1508478654927	Marionette	INFO	Listening on port 63266
+1508478655745	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508478655780	Marionette	DEBUG	Register listener.js for window 4294967297
+1508478655837	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508478656178	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508478656178	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+Unable to read VR Path Registry from C:\Users\S7799\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1508478656486	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1508478656544	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E7%A6%8F%E5%93%A5%E6%9D%82%E8%AE%B0%20CSDN&json=1&p=3&sid=1454_24557_21078_22073&req=2&csor=9&pwd=%E7%A6%8F%E5%93%A5%E6%9D%82%E8%AE%B0%20CSD&cb=jQuery110209295717732729126_1508478656366&_=1508478656376, line 1: TypeError: jQuery110209295717732729126_1508478656366 is not a function
+1508478657272	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1508478657897	Marionette	DEBUG	Register listener.js for window 4294967301
+[Child 12552] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12552] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1508478682918	geckodriver	INFO	Listening on 127.0.0.1:63417
+1508478684962	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1508478685196	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1508478685617	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\S7799\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13672] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13672] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1508478687218	Marionette	INFO	Listening on port 63423
+1508478688128	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508478688163	Marionette	DEBUG	Register listener.js for window 6442450945
+1508478688224	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508478688426	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508478688427	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+Unable to read VR Path Registry from C:\Users\S7799\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1508478688660	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1508478688738	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E7%A6%8F%E5%93%A5%E6%9D%82%E8%AE%B0%20CSDN&json=1&p=3&sid=1420_21123_18560_17001_20929&req=2&csor=9&pwd=%E7%A6%8F%E5%93%A5%E6%9D%82%E8%AE%B0%20CSD&cb=jQuery1102002257075987775936_1508478688561&_=1508478688571, line 1: TypeError: jQuery1102002257075987775936_1508478688561 is not a function
+1508478689294	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1508478689896	Marionette	DEBUG	Register listener.js for window 6442450949
+1508478692930	Marionette	DEBUG	Received DOM event "beforeunload" for "http://blog.csdn.net/otianye/"
+1508478692967	Marionette	DEBUG	Received DOM event "pagehide" for "http://blog.csdn.net/otianye/"
+1508478692969	Marionette	DEBUG	Received DOM event "unload" for "http://blog.csdn.net/otianye/"
+1508478693079	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "6442450967"
+1508478693079	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "6442450964"
+1508478693079	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "6442450953"
+1508478693080	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "6442450954"
+1508478693080	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "6442450956"
+1508478693080	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "6442450957"
+1508478693080	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "6442450958"
+JavaScript error: https://csdnimg.cn/pubfooter/js/publib_footer.js?7hfkv=, line 86: ReferenceError: $ is not defined
+JavaScript warning: https://csdnimg.cn/rabbit/exposure-click/main.js?20170802001, line 500: unreachable code after return statement
+JavaScript error: https://csdnimg.cn/rabbit/exposure-click/main.js?20170802001, line 167: ReferenceError: jQuery is not defined
+1508478693612	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://passport.csdn.net/account/login?ref=toolbar"
+1508478693961	Marionette	DEBUG	Received DOM event "pageshow" for "https://passport.csdn.net/account/login?ref=toolbar"
+1508478694138	Marionette	DEBUG	Received DOM event "beforeunload" for "https://passport.csdn.net/account/login?ref=toolbar"
+1508478694320	Marionette	DEBUG	Received DOM event "pagehide" for "https://passport.csdn.net/account/login?ref=toolbar"
+1508478694322	Marionette	DEBUG	Received DOM event "unload" for "https://passport.csdn.net/account/login?ref=toolbar"
+1508478694373	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://passport.csdn.net/account/login;jsessionid=78108E525463CAEC9CC176CBF75D93A0.tomcat1?ref=toolbar"
+1508478694384	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "6442450970"
+1508478694393	Marionette	DEBUG	Received DOM event "pageshow" for "https://passport.csdn.net/account/login;jsessionid=78108E525463CAEC9CC176CBF75D93A0.tomcat1?ref=toolbar"
+1508478695007	Marionette	DEBUG	Received DOM event "beforeunload" for "http://blog.csdn.net/otianye/"
+1508478695216	Marionette	DEBUG	Received DOM event "pagehide" for "http://blog.csdn.net/otianye/"
+1508478695218	Marionette	DEBUG	Received DOM event "unload" for "http://blog.csdn.net/otianye/"
+1508478695485	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "6442450975"
+1508478696313	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://blog.csdn.net/otianye/article/details/72827970"
+1508478697623	Marionette	DEBUG	Received DOM event "pageshow" for "http://blog.csdn.net/otianye/article/details/72827970"
+1508478697920	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1508478697988	Marionette	INFO	New connections will no longer be accepted
+1508478888461	geckodriver	INFO	Listening on 127.0.0.1:64021
+1508478890489	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1508478890725	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1508478891127	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\S7799\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12812] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12812] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1508478892730	Marionette	INFO	Listening on port 64027
+1508478893667	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508478893710	Marionette	DEBUG	Register listener.js for window 6442450945
+1508478893758	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508478894047	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508478894048	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+Unable to read VR Path Registry from C:\Users\S7799\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1508478894346	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1508478896359	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E7%A6%8F%E5%93%A5%E6%9D%82%E8%AE%B0%20&json=1&p=3&sid=1438_21102_24022_22157&req=2&csor=5&pwd=%E7%A6%8F%E5%93%A5%E6%9D%82%E8%AE%B0&cb=jQuery110205124560876522327_1508478894233&_=1508478894239, line 1: TypeError: jQuery110205124560876522327_1508478894233 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E7%A6%8F%E5%93%A5%E6%9D%82%E8%AE%B0%20CSDN&json=1&p=3&sid=1438_21102_24022_22157&req=2&csor=9&pwd=%E7%A6%8F%E5%93%A5%E6%9D%82%E8%AE%B0%20CSD&cb=jQuery110205124560876522327_1508478894233&_=1508478894243, line 1: TypeError: jQuery110205124560876522327_1508478894233 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E7%A6%8F%E5%93%A5%E6%9D%82%E8%AE%B0%20CS&json=1&p=3&sid=1438_21102_24022_22157&req=2&csor=7&pwd=%E7%A6%8F%E5%93%A5%E6%9D%82%E8%AE%B0%20C&cb=jQuery110205124560876522327_1508478894233&_=1508478894241, line 1: TypeError: jQuery110205124560876522327_1508478894233 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E7%A6%8F%E5%93%A5%E6%9D%82%E8%AE%B0%20CSD&json=1&p=3&sid=1438_21102_24022_22157&req=2&csor=8&pwd=%E7%A6%8F%E5%93%A5%E6%9D%82%E8%AE%B0%20CS&cb=jQuery110205124560876522327_1508478894233&_=1508478894242, line 1: TypeError: jQuery110205124560876522327_1508478894233 is not a function
+1508478896936	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1508478897508	Marionette	DEBUG	Register listener.js for window 6442450949
+1508478900554	Marionette	DEBUG	Received DOM event "beforeunload" for "http://blog.csdn.net/otianye/"
+1508478900608	Marionette	DEBUG	Received DOM event "pagehide" for "http://blog.csdn.net/otianye/"
+1508478900610	Marionette	DEBUG	Received DOM event "unload" for "http://blog.csdn.net/otianye/"
+1508478900740	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "6442450977"
+1508478900741	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "6442450953"
+1508478900742	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "6442450954"
+1508478900742	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "6442450956"
+1508478900742	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "6442450957"
+1508478900742	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "6442450975"
+1508478900743	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "6442450973"
+1508478900744	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "6442450971"
+1508478900744	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "6442450964"
+1508478900744	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "6442450965"
+1508478900745	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "6442450966"
+1508478900745	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "6442450958"
+JavaScript error: https://csdnimg.cn/pubfooter/js/publib_footer.js?7hfkx=, line 86: ReferenceError: $ is not defined
+JavaScript warning: https://csdnimg.cn/rabbit/exposure-click/main.js?20170802001, line 500: unreachable code after return statement
+JavaScript error: https://csdnimg.cn/rabbit/exposure-click/main.js?20170802001, line 167: ReferenceError: jQuery is not defined
+1508478901312	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://passport.csdn.net/account/login?ref=toolbar"
+1508478901646	Marionette	DEBUG	Received DOM event "pageshow" for "https://passport.csdn.net/account/login?ref=toolbar"
+1508478901842	Marionette	DEBUG	Received DOM event "beforeunload" for "https://passport.csdn.net/account/login?ref=toolbar"
+1508478902008	Marionette	DEBUG	Received DOM event "pagehide" for "https://passport.csdn.net/account/login?ref=toolbar"
+1508478902009	Marionette	DEBUG	Received DOM event "unload" for "https://passport.csdn.net/account/login?ref=toolbar"
+1508478902054	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://passport.csdn.net/account/login;jsessionid=BA5C3CDB55354AAB0F5DCAD458BF9809.tomcat2?ref=toolbar"
+1508478902057	Marionette	DEBUG	Received DOM event "pageshow" for "https://passport.csdn.net/account/login;jsessionid=BA5C3CDB55354AAB0F5DCAD458BF9809.tomcat2?ref=toolbar"
+1508478902745	Marionette	DEBUG	Received DOM event "beforeunload" for "http://blog.csdn.net/otianye/"
+1508478902975	Marionette	DEBUG	Received DOM event "pagehide" for "http://blog.csdn.net/otianye/"
+1508478902975	Marionette	DEBUG	Received DOM event "unload" for "http://blog.csdn.net/otianye/"
+1508478903107	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "6442450985"
+1508478903107	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "6442450987"
+1508478903108	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "6442450988"
+1508478904083	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://blog.csdn.net/otianye/article/details/72827970"
+1508478905332	Marionette	DEBUG	Received DOM event "pageshow" for "http://blog.csdn.net/otianye/article/details/72827970"
+1508478905663	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1508478905709	Marionette	INFO	New connections will no longer be accepted
+1508478962084	geckodriver	INFO	Listening on 127.0.0.1:64244
+1508478964089	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1508478964339	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1508478964728	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\S7799\AppData\Local\openvr\openvrpaths.vrpath
+[Child 2616] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2616] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1508478966369	Marionette	INFO	Listening on port 64250
+1508478967286	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508478967325	Marionette	DEBUG	Register listener.js for window 4294967297
+1508478967397	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508478967653	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508478967653	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+Unable to read VR Path Registry from C:\Users\S7799\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1508478968022	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1508478968169	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E7%A6%8F%E5%93%A5%E6%9D%82&json=1&p=3&sid=1466_21105_17001&req=2&csor=3&pwd=%E7%A6%8F%E5%93%A5&cb=jQuery110205323257491062023_1508478967913&_=1508478967917, line 1: TypeError: jQuery110205323257491062023_1508478967913 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E7%A6%8F%E5%93%A5%E6%9D%82%E8%AE%B0%20C&json=1&p=3&sid=1466_21105_17001&req=2&csor=6&pwd=%E7%A6%8F%E5%93%A5%E6%9D%82%E8%AE%B0%20&cb=jQuery110205323257491062023_1508478967913&_=1508478967920, line 1: TypeError: jQuery110205323257491062023_1508478967913 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E7%A6%8F%E5%93%A5%E6%9D%82%E8%AE%B0&json=1&p=3&sid=1466_21105_17001&req=2&csor=4&pwd=%E7%A6%8F%E5%93%A5%E6%9D%82&cb=jQuery110205323257491062023_1508478967913&_=1508478967918, line 1: TypeError: jQuery110205323257491062023_1508478967913 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E7%A6%8F%E5%93%A5&json=1&p=3&sid=1466_21105_17001&req=2&csor=2&pwd=%E7%A6%8F&cb=jQuery110205323257491062023_1508478967913&_=1508478967916, line 1: TypeError: jQuery110205323257491062023_1508478967913 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E7%A6%8F%E5%93%A5%E6%9D%82%E8%AE%B0%20&json=1&p=3&sid=1466_21105_17001&req=2&csor=5&pwd=%E7%A6%8F%E5%93%A5%E6%9D%82%E8%AE%B0&cb=jQuery110205323257491062023_1508478967913&_=1508478967919, line 1: TypeError: jQuery110205323257491062023_1508478967913 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E7%A6%8F&json=1&p=3&sid=1466_21105_17001&req=2&csor=1&cb=jQuery110205323257491062023_1508478967913&_=1508478967915, line 1: TypeError: jQuery110205323257491062023_1508478967913 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E7%A6%8F%E5%93%A5%E6%9D%82%E8%AE%B0%20CS&json=1&p=3&sid=1466_21105_17001&req=2&csor=7&pwd=%E7%A6%8F%E5%93%A5%E6%9D%82%E8%AE%B0%20C&cb=jQuery110205323257491062023_1508478967913&_=1508478967921, line 1: TypeError: jQuery110205323257491062023_1508478967913 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E7%A6%8F%E5%93%A5%E6%9D%82%E8%AE%B0%20CSD&json=1&p=3&sid=1466_21105_17001&req=2&csor=8&pwd=%E7%A6%8F%E5%93%A5%E6%9D%82%E8%AE%B0%20CS&cb=jQuery110205323257491062023_1508478967913&_=1508478967922, line 1: TypeError: jQuery110205323257491062023_1508478967913 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E7%A6%8F%E5%93%A5%E6%9D%82%E8%AE%B0%20CSDN&json=1&p=3&sid=1466_21105_17001&req=2&csor=9&pwd=%E7%A6%8F%E5%93%A5%E6%9D%82%E8%AE%B0%20CSD&cb=jQuery110205323257491062023_1508478967913&_=1508478967923, line 1: TypeError: jQuery110205323257491062023_1508478967913 is not a function
+1508478968616	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1508478969208	Marionette	DEBUG	Register listener.js for window 4294967301
+1508478972242	Marionette	DEBUG	Received DOM event "beforeunload" for "http://blog.csdn.net/otianye/"
+1508478972289	Marionette	DEBUG	Received DOM event "pagehide" for "http://blog.csdn.net/otianye/"
+1508478972290	Marionette	DEBUG	Received DOM event "unload" for "http://blog.csdn.net/otianye/"
+1508478972402	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
+1508478972403	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967306"
+1508478972403	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967308"
+1508478972403	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967309"
+1508478972403	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967327"
+1508478972404	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967325"
+1508478972404	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967323"
+1508478972404	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967316"
+1508478972404	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967317"
+1508478972404	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967318"
+1508478972405	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967310"
+JavaScript error: https://csdnimg.cn/pubfooter/js/publib_footer.js?7hfky=, line 86: ReferenceError: $ is not defined
+JavaScript warning: https://csdnimg.cn/rabbit/exposure-click/main.js?20170802001, line 500: unreachable code after return statement
+JavaScript error: https://csdnimg.cn/rabbit/exposure-click/main.js?20170802001, line 167: ReferenceError: jQuery is not defined
+1508478973018	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://passport.csdn.net/account/login?ref=toolbar"
+1508478973287	Marionette	DEBUG	Received DOM event "pageshow" for "https://passport.csdn.net/account/login?ref=toolbar"
+1508478973485	Marionette	DEBUG	Received DOM event "beforeunload" for "https://passport.csdn.net/account/login?ref=toolbar"
+1508478973636	Marionette	DEBUG	Received DOM event "pagehide" for "https://passport.csdn.net/account/login?ref=toolbar"
+1508478973638	Marionette	DEBUG	Received DOM event "unload" for "https://passport.csdn.net/account/login?ref=toolbar"
+1508478973683	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://passport.csdn.net/account/login;jsessionid=EBBA00B1F5B1174A814BB9525013444C.tomcat1?ref=toolbar"
+1508478973686	Marionette	DEBUG	Received DOM event "pageshow" for "https://passport.csdn.net/account/login;jsessionid=EBBA00B1F5B1174A814BB9525013444C.tomcat1?ref=toolbar"
+1508478974303	Marionette	DEBUG	Received DOM event "beforeunload" for "http://blog.csdn.net/otianye/"
+1508478974467	Marionette	DEBUG	Received DOM event "pagehide" for "http://blog.csdn.net/otianye/"
+1508478974469	Marionette	DEBUG	Received DOM event "unload" for "http://blog.csdn.net/otianye/"
+1508478974635	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967335"
+1508478974635	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967337"
+1508478975827	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://blog.csdn.net/otianye/article/details/72827970"
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+Unable to read VR Path Registry from C:\Users\S7799\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 3316] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\S7799\AppData\Local\openvr\openvrpaths.vrpath
+[Child 4892] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4892] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1508478981744	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967297"
+1508478981746	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967341"
+1508478981747	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967339"
+1508478981749	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967350"
+1508478981749	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967348"
+1508478981751	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967340"
+1508478981751	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967345"
+1508478981755	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967353"
+1508478981756	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967354"
+1508478981756	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967360"
+1508478981757	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967355"
+1508478981758	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+[Parent 3316] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
