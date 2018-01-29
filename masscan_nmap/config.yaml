@@ -1,0 +1,20 @@
+masscan:
+    #ip example  10.10.8.31/26 or 10.10.8.31-10.10.8.40 or ip list
+    #ip list divide by ',' such as 10.10.8.31,10.10.8.32
+    ip: 10.10.0.0/16
+    #port like ip
+    port: 0-65535
+    #The number of packets per second. 1000 is about 1kb/s
+    rate: 1000000
+    #if useAdvanced is true.The Above configuration is useless 
+    #And you need configurate ./masscan.conf
+    useAdvanced: false #true|false
+nmap:
+    #parameters divide by ' '(space)
+    #examples: -O -
+    parameters: -O
+
+
+other:
+    system: linux #linux|windows
+    progress: 4 #1-4 more than 4 is unused

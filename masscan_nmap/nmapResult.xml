@@ -1,0 +1,117 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="file:///usr/bin/../share/nmap/nmap.xsl" type="text/xsl"?>
+<!-- Nmap 6.40 scan initiated Thu Jan 25 19:02:59 2018 as: nmap -A -p 49155,445, -oA result2018_01_25_19_02/nmapResult123.207.0.12 123.207.0.12 -->
+<nmaprun scanner="nmap" args="nmap -A -p 49155,445, -oA result2018_01_25_19_02/nmapResult123.207.0.12 123.207.0.12" start="1516878179" startstr="Thu Jan 25 19:02:59 2018" version="6.40" xmloutputversion="1.04">
+    <scaninfo type="syn" protocol="tcp" numservices="2" services="445,49155"/>
+    <verbose level="0"/>
+    <debugging level="0"/>
+    <host starttime="1516878179" endtime="1516878245">
+        <status state="up" reason="echo-reply" reason_ttl="122"/>
+        <address addr="123.207.0.12" addrtype="ipv4"/>
+        <hostnames></hostnames>
+        <ports>
+            <port protocol="tcp" portid="445">
+                <state state="open" reason="syn-ack" reason_ttl="122"/>
+                <service name="netbios-ssn" method="probed" conf="10"/>
+            </port>
+            <port protocol="tcp" portid="49155">
+                <state state="open" reason="syn-ack" reason_ttl="122"/>
+                <service name="msrpc" product="Microsoft Windows RPC" ostype="Windows" method="probed" conf="10">
+                    <cpe>cpe:/o:microsoft:windows</cpe>
+                </service>
+            </port>
+        </ports>
+        <os>
+            <portused state="open" proto="tcp" portid="445"/>
+            <osmatch name="Microsoft Windows 7 or Windows Server 2012" accuracy="95" line="52878">
+                <osclass type="general purpose" vendor="Microsoft" osfamily="Windows" osgen="7" accuracy="95">
+                    <cpe>cpe:/o:microsoft:windows_7:::ultimate</cpe>
+                </osclass>
+                <osclass type="general purpose" vendor="Microsoft" osfamily="Windows" osgen="2012" accuracy="95">
+                    <cpe>cpe:/o:microsoft:windows_2012</cpe>
+                </osclass>
+            </osmatch>
+            <osmatch name="Microsoft Windows Vista SP1" accuracy="95" line="54938">
+                <osclass type="general purpose" vendor="Microsoft" osfamily="Windows" osgen="Vista" accuracy="95">
+                    <cpe>cpe:/o:microsoft:windows_vista::sp1</cpe>
+                </osclass>
+            </osmatch>
+            <osmatch name="Microsoft Windows Server 2008 R2" accuracy="92" line="52073">
+                <osclass type="general purpose" vendor="Microsoft" osfamily="Windows" osgen="2008" accuracy="92">
+                    <cpe>cpe:/o:microsoft:windows_server_2008:r2</cpe>
+                </osclass>
+            </osmatch>
+            <osmatch name="Microsoft Windows Server 2008 SP1" accuracy="92" line="52201">
+                <osclass type="general purpose" vendor="Microsoft" osfamily="Windows" osgen="2008" accuracy="92">
+                    <cpe>cpe:/o:microsoft:windows_server_2008::sp1</cpe>
+                </osclass>
+            </osmatch>
+            <osmatch name="Microsoft Windows Server 2008 SP2" accuracy="92" line="52443">
+                <osclass type="general purpose" vendor="Microsoft" osfamily="Windows" osgen="2008" accuracy="92">
+                    <cpe>cpe:/o:microsoft:windows_server_2008::sp2</cpe>
+                </osclass>
+            </osmatch>
+            <osmatch name="Microsoft Windows 7" accuracy="92" line="52616">
+                <osclass type="general purpose" vendor="Microsoft" osfamily="Windows" osgen="7" accuracy="92">
+                    <cpe>cpe:/o:microsoft:windows_7</cpe>
+                </osclass>
+            </osmatch>
+            <osmatch name="Microsoft Windows 7 SP0 - SP1 or Windows Server 2008" accuracy="92" line="53032">
+                <osclass type="general purpose" vendor="Microsoft" osfamily="Windows" osgen="7" accuracy="92">
+                    <cpe>cpe:/o:microsoft:windows_7::-</cpe>
+                    <cpe>cpe:/o:microsoft:windows_7::sp1</cpe>
+                </osclass>
+                <osclass type="general purpose" vendor="Microsoft" osfamily="Windows" osgen="2008" accuracy="92">
+                    <cpe>cpe:/o:microsoft:windows_2008</cpe>
+                </osclass>
+            </osmatch>
+            <osmatch name="Microsoft Windows 7 SP0 - SP1, Windows Server 2008 SP1, or Windows 8" accuracy="92" line="53077">
+                <osclass type="general purpose" vendor="Microsoft" osfamily="Windows" osgen="7" accuracy="92">
+                    <cpe>cpe:/o:microsoft:windows_7::-</cpe>
+                    <cpe>cpe:/o:microsoft:windows_7::sp1</cpe>
+                </osclass>
+                <osclass type="general purpose" vendor="Microsoft" osfamily="Windows" osgen="2008" accuracy="92">
+                    <cpe>cpe:/o:microsoft:windows_server_2008::sp1</cpe>
+                </osclass>
+                <osclass type="general purpose" vendor="Microsoft" osfamily="Windows" osgen="8" accuracy="92">
+                    <cpe>cpe:/o:microsoft:windows_8</cpe>
+                </osclass>
+            </osmatch>
+            <osmatch name="Microsoft Windows 7 Ultimate" accuracy="92" line="53244">
+                <osclass type="general purpose" vendor="Microsoft" osfamily="Windows" osgen="7" accuracy="92">
+                    <cpe>cpe:/o:microsoft:windows_7::-:ultimate</cpe>
+                </osclass>
+            </osmatch>
+            <osmatch name="Microsoft Windows Vista or Windows 7 SP1" accuracy="92" line="54796">
+                <osclass type="general purpose" vendor="Microsoft" osfamily="Windows" osgen="Vista" accuracy="92">
+                    <cpe>cpe:/o:microsoft:windows_vista</cpe>
+                </osclass>
+                <osclass type="general purpose" vendor="Microsoft" osfamily="Windows" osgen="7" accuracy="92">
+                    <cpe>cpe:/o:microsoft:windows_7::sp1</cpe>
+                </osclass>
+            </osmatch>
+        </os>
+        <uptime seconds="2015125" lastboot="Tue Jan  2 11:18:40 2018"/>
+        <distance value="7"/>
+        <tcpsequence index="257" difficulty="Good luck!" values="EA3CA1D0,56CD7BC8,C3E231F8,FD8679B8,8A28885D,C5664A17"/>
+        <ipidsequence class="Incremental" values="4FC6,4FC7,4FC8,4FC9,4FCA,4FCB"/>
+        <tcptssequence class="100HZ" values="C02D09F,C02D0A9,C02D0B3,C02D0BD,C02D0C8,C02D0D2"/>
+        <hostscript>
+            <script id="smb-security-mode" output="&#xa;  User-level authentication&#xa;  SMB Security: Challenge/response passwords supported&#xa;  Message signing disabled (dangerous, but default)&#xa;"/>
+            <script id="smbv2-enabled" output="Server supports SMBv2 protocol"/>
+        </hostscript>
+        <trace port="445" proto="tcp">
+            <hop ttl="1" ipaddr="10.53.211.130" rtt="7.06"/>
+            <hop ttl="3" ipaddr="10.200.232.85" rtt="0.94"/>
+            <hop ttl="4" ipaddr="10.200.6.169" rtt="41.51"/>
+            <hop ttl="5" ipaddr="10.200.9.177" rtt="46.64"/>
+            <hop ttl="6" ipaddr="10.200.9.190" rtt="40.27"/>
+            <hop ttl="7" ipaddr="123.207.0.12" rtt="39.47"/>
+        </trace>
+        <times srtt="42542" rttvar="2908" to="100000"/>
+    </host>
+    <runstats>
+        <finished time="1516878245" timestr="Thu Jan 25 19:04:05 2018" elapsed="66.93" summary="Nmap done at Thu Jan 25 19:04:05 2018; 1 IP address (1 host up) scanned in 66.93 seconds" exit="success"/>
+        <hosts up="1" down="0" total="1"/>
+    </runstats>
+</nmaprun>
